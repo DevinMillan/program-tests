@@ -9,3 +9,6 @@ for x in y:
     print(x)
     if x == "2":
         break
+        
+for x in range(6):
+    print("This is range")
