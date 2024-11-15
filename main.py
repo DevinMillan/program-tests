@@ -1,4 +1,5 @@
 print("New Python")
+print("Test program")
 
 int x = 1
 while(x<5):
@@ -12,4 +13,5 @@ for x in y:
         
 for x in range(6):
     print("This is range")
+
 //New methods
