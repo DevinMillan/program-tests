@@ -14,4 +14,7 @@ for x in y:
 for x in range(6):
     print("This is range")
 
-//New methods
+# New methods
+
+def Function():
+    print("I made a method!")
