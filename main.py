@@ -19,4 +19,8 @@ for x in range(6):
 # New methods
 
 def Function():
-    print("I made a method!")
+    y = 5;
+    if(y>4):
+        print("I made a method with a if statement!")
+    else:
+        print("Else was executed")
