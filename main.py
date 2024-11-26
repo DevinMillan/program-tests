@@ -4,6 +4,8 @@ print("Test program")
 int x = 1
 while(x<5):
     print("This is a while loop")
+    while(x<2):
+        print("This is a nested while loop")
 
 # nest for-loop
 y = ["1","2","3"]
