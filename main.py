@@ -19,7 +19,7 @@ for x in range(6):
     print("This is range")
 
 # New methods
-
+print(x)
 def Function():
     y = 5;
     if(y>4):
