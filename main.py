@@ -26,5 +26,6 @@ def Function():
         print("I made a method with a if statement!")
     else:
         print("Else was executed")
-    def AnotherFunction():
+    def AnotherFunction(x):
         print("Nested Method")
+        return x;
