@@ -14,6 +14,8 @@ for x in y:
         print(x)
         if x == "2":
             break
+        if y == "1":
+            continue
         
 for x in range(6):
     print("This is range")
