@@ -17,6 +17,7 @@ for x in y:
         if y == "1":
             continue
         
+#For-loop statement
 for x in range(6):
     print("This is range")
 
