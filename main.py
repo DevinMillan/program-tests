@@ -1,7 +1,7 @@
 print("New Python")
 print("Test program")
 
-int x = 1
+int x = 1 # Initialization of integer x
 
 # nested while-loop
 while(x<5):
