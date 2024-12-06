@@ -27,6 +27,7 @@ for x in range(6):
 print(AnotherFunction(x))
 def Function():
     y = 5;
+    print(x)
     if(y>4):
         print("I made a method with a if statement!")
     else:
