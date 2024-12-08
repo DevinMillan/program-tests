@@ -1,4 +1,4 @@
-print("New Python")
+print("New Python") # Learn how to add an escape sequence
 print("Test program")
 
 int x = 1 # Initialization of integer x
