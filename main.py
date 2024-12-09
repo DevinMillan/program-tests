@@ -10,7 +10,7 @@ while(x<5):
         print("This is now a nested while loop")
 
 # nested for-loop
-y = ["1","2","3"]
+y = ["1","2","3","4"]
 for x in y:
     for x in y:
         print(x)
