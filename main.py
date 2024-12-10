@@ -24,7 +24,7 @@ for x in range(6):
     print("This is range")
 
 #Nested Methods
-print(AnotherFunction(x))
+print(AnotherFunction(x)) #Prints what was returned
 def Function():
     y = 5;
     print(x)
